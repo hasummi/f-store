@@ -3,3 +3,6 @@ database/
 
 # ignores all .php files
 *.php
+
+# ignore test files
+phptestconnection.txt
