@@ -1,0 +1,30 @@
+.card-title {
+    color: #395368;
+    width: 200px;
+    font-size: 36px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.carousel {
+ 
+    left: 380px;
+    width: 1200px;
+}
+
+.btn {
+    color: aliceblue;
+    background-color: #395368;   
+}
+
+.img-logo{
+    height: 50px;
+    width: 300px;
+}

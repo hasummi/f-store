@@ -1,0 +1,5 @@
+# ignore database folder
+database/
+
+# ignores all .php files
+*.php
