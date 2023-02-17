@@ -14,9 +14,12 @@
 }
 
 .carousel {
- 
-    left: 380px;
-    width: 1200px;
+   width: 1200px;
+}
+
+.pizdec {
+    display: flex;
+    justify-content: center;
 }
 
 .btn {
@@ -26,4 +29,22 @@
 
 .img-logo{
     width: 260px;
+}
+
+.line-4 {
+    height: 1px;
+    background: black;
+    width: 100%;
+  }
+
+.telegram-icon {
+    width: 45px;
+}
+
+.instagram-icon {
+    width: 45px;
+}
+
+.facebook-icon {
+    width: 45px;
 }
