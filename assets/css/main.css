@@ -38,13 +38,29 @@
   }
 
 .telegram-icon {
-    width: 45px;
+    width: 40px;
 }
 
 .instagram-icon {
-    width: 45px;
+    width: 40px;
 }
 
 .facebook-icon {
-    width: 45px;
+    width: 40px;
+}
+
+
+.rounded {
+    width: 250px;
+    
+}
+
+.text-center {
+    width: 1000px;
+    
+}
+
+.col-12 {
+    display: flex;
+    justify-content: center;
 }
